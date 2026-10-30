@@ -1,8 +1,11 @@
 # Nuxt Minimal Starter
 
 Node v26.12.1
+
 npm (Node Package Manager) 11.20.0
+
 Pug language/syntax template
+
 Has Bootstrap integration in this Vue 3 (Vite) project
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
